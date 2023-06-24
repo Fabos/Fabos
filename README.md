@@ -45,7 +45,7 @@
       src="https://www.saashub.com/images/app/service_logos/73/05d78496e787/large.png?1567528863"
       alt="" height="30" width="40" /></a>
       
-  <a href="https://instagram.com/_._.adam._](https://www.instagram.com/fabos_1/" target="blank"><img align="center"
+  <a href="https://www.instagram.com/fabos_1/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="" height="30" width="40" /></a>
  <a href="https://twitter.com/fabian_pinzon1?s=11&t=RGZs8F6V6OrDhSe9rpfYng" target="blank"><img align="center"

@@ -18,10 +18,15 @@
         <br>
         <p>
             <strong>
-                Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+                "¡Hola! Soy Fabian Pinzon, un apasionado desarrollador Full Stack con amplia experiencia en el desarrollo de aplicaciones web y móviles. Mi enfoque principal se centra en crear soluciones                     eficientes y escalables, siguiendo las mejores prácticas de la industria y utilizando metodologías DevOps para garantizar una entrega continua y un despliegue sin problemas.
+                <br><br>
+                He tenido el privilegio de trabajar con grandes empresas como la Universidad y Win Sport, donde he desarrollado aplicaciones de alta calidad y robustez. Además, tuve el honor de liderar el                   equipo de soluciones móviles en el desarrollo de la aplicación transaccional más grande de Colombia, para RedeBan. Esta experiencia me permitió adquirir un profundo conocimiento en el manejo                 de transacciones seguras y el cumplimiento de altos estándares de calidad.
+                <br><br>
+                Como defensor de las mejores prácticas, tengo un enfoque riguroso en la implementación de DevOps, lo que me ha permitido automatizar los procesos de desarrollo, pruebas y despliegue,                         aumentando así la eficiencia y la calidad del software entregado.
+                <br><br>
+                Además de mi experiencia en desarrollo, soy un entusiasta de la ciberseguridad y siempre estoy buscando nuevas formas de mejorar la seguridad en mis proyectos. Estoy en constante aprendizaje                 y desarrollo para mantenerme actualizado sobre las últimas tendencias y prácticas recomendadas en el campo de la seguridad informática.
+                <br><br>
+                Estoy emocionado por colaborar en proyectos desafiantes y seguir aprendiendo mientras aporto mis habilidades y experiencia. Si buscas un desarrollador Full Stack comprometido con la calidad,                 la seguridad y la implementación de DevOps, ¡estoy aquí para ayudar!
             </strong>
         </p>
         <ul>
